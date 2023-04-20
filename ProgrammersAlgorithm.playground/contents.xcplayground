@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='개인정보 수집 유효기간'/>
         <page name='신고 결과 받기'/>
+        <page name='개인정보 수집 유효기간'/>
+        <page name='Untitled Page 2'/>
+        <page name='Untitled Page 3'/>
+        <page name='비밀지도'/>
     </pages>
 </playground>
