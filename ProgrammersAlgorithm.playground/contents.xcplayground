@@ -6,6 +6,8 @@
         <page name='비밀지도'/>
         <page name='크레인 인형뽑기 게임'/>
         <page name='로또의 최고 순위와 최저 순위'/>
-        <page name='실패율'/>
+        <page name='실패율'/>
+        <page name='다트 게임'/>
+        <page name='숫자 문자열과 영단어'/>
     </pages>
 </playground>
