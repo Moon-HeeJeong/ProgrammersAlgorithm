@@ -11,6 +11,8 @@
         <page name='숫자 문자열과 영단어'/>
         <page name='신규 아이디 추천'/>
         <page name='옹알이 (2)'/>
-        <page name='성격 유형 검사하기'/>
+        <page name='성격 유형 검사하기'/>
+        <page name='과일 장수'/>
+        <page name='푸드 파이트 대회'/>
     </pages>
 </playground>
