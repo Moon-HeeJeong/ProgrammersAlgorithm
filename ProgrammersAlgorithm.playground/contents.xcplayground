@@ -24,6 +24,7 @@
         <page name='시소 짝꿍(미해결)'/>
         <page name='문자열 압축'/>
         <page name='스킬트리'/>
-        <page name='두 큐 합 같게 만들기'/>
+        <page name='두 큐 합 같게 만들기'/>
+        <page name='주차 요금 계산'/>
     </pages>
 </playground>
